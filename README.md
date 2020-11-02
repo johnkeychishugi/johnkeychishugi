@@ -20,7 +20,7 @@
 - Know/Using
 
 |[<img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" alt="laravel logo" width="24">](https://laravel.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="django logo" width="32">](https://www.djangoproject.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express logo" width="38">](https://expressjs.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" alt="flutter logo" width="24">](https://flutter.dev/) | [<img src="https://duckduckgo.com/i/53dd4f57.png" alt="react logo" width="32">](https://www.react.dev/) | [<img src="https://strapi.io/assets/strapi-logo.svg" alt="vue logo" width="48">](https://strapi.io/)
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 
 - Learning
 
