@@ -24,4 +24,6 @@
 
 ![John chishugi's github stats](https://github-readme-stats.vercel.app/api?username=johnkeychishugi&show_icons=true&hide_border=true)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkeychishugi&layout=compact)
+
 <br><br><br>
