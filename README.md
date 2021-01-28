@@ -38,6 +38,6 @@
 - https://ministeral.com
 - http://ontask.popmooder.com
 - https://connectis.co
-- http://admin.connectis.co
-- http://sfr.connectis.co
+- https://admin.connectis.co
+- https://sfr.connectis.co
 <br><br><br>
