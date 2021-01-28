@@ -40,4 +40,11 @@
 - https://connectis.co
 - https://admin.connectis.co
 - https://sfr.connectis.co
-<br><br><br>
+
+## 📫 How to reach me
+- My Portfolio : https://jkchishugi.popmooder.com
+- Linkedin : https://www.linkedin.com/in/john-chishugi-b53711185
+
+📋 My resume : [resume](https://github.com/johnkeychishugi/johnkeychishugi)
+
+<br><br>
