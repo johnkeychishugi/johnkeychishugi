@@ -26,4 +26,15 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkeychishugi&layout=compact)
 
+## 👨🏽‍🔧 I've built and worked on
+- https://popmooder.com
+- http://okgama.com
+- http://celebrons.org
+- https://wiiqare.com
+- https://stationlaconfiance.com
+- https://munganglogistiques.org
+- https://uzaonline.com
+- http://jobstock.popmooder.com
+- https://ministeral.com
+- http://ontask.popmooder.com
 <br><br><br>
